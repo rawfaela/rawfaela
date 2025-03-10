@@ -2,7 +2,7 @@
 
 Téc. Informática SATC 2025
 ## Contatos
-email: ambonighellererafaela@gmail.com
+email: ambonighellererafaela@gmail.com <br>
 telefone: 48 99614-5372
 
 <!--
