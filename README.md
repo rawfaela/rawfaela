@@ -1,5 +1,10 @@
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rawfaela&layout=compact&theme=dracula)
 
+Téc. Informática SATC 2025
+## Contatos
+email: ambonighellererafaela@gmail.com
+telefone: 48 99614-5372
+
 <!--
 **rawfaela/rawfaela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
