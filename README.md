@@ -2,7 +2,7 @@ Téc. Informática SATC 2025
 ## Contatos
 Email: ambonighellererafaela@gmail.com <br>
 Telefone: 48 99614-5372
-
+<hr>
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rawfaela&layout=compact&theme=dracula)
 <!--
 **rawfaela/rawfaela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
