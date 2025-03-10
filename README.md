@@ -2,8 +2,8 @@
 
 Téc. Informática SATC 2025
 ## Contatos
-email: ambonighellererafaela@gmail.com <br>
-telefone: 48 99614-5372
+Email: ambonighellererafaela@gmail.com <br>
+Telefone: 48 99614-5372
 
 <!--
 **rawfaela/rawfaela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
