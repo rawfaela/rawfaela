@@ -10,4 +10,4 @@ Telefone: (48) 99614-5372
 <hr/>
 <h3>Linguagens que estou aprendendo</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,java,php,react,cpp,cs,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,java,php,mysql,react,cs,cpp&theme=dark)](https://skillicons.dev)
