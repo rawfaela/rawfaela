@@ -1,4 +1,4 @@
-<h3>Téc. Informática SATC 2025</h3>
+<h3>Curso Técnico em Informática SATC 2025</h3>
 
 ## Contatos
 Email: ambonighellererafaela@gmail.com <br>
@@ -8,6 +8,6 @@ Telefone: (48) 99614-5372
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rawfaela&layout=compact&theme=dracula)
 
 <hr/>
-<h3>Linguagens que estou aprendendo</h3>
+<h3>Linguagens/Frameworks que estou aprendendo</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,js,java,php,mysql,react,cs,cpp&theme=dark)](https://skillicons.dev)
