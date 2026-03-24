@@ -4,9 +4,9 @@ Software Development Internship / Estágio em Desenvolvimento de Software - Agro
 </p>
 
 <h2>Contatcs</h2>
-Email: ambonighellererafaela@gmail.com <br>
-Phone number: +55 (48) 99614-5372 <br>
-LinkedIn: linkedin.com/in/rafaela-amboni-ghellere
+Email: <a href="mailto:ambonighellererafaela@gmail.com">ambonighellererafaela@gmail.com </a> <br>
+Phone number: <a href="tel:+5548996145372">+55 (48) 99614-5372 </a> <br>
+LinkedIn: <a href="https://linkedin.com/in/rafaela-amboni-ghellere">linkedin.com/in/rafaela-amboni-ghellere </a>
 
 <h2>My skills</h2>
 
