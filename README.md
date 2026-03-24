@@ -10,4 +10,7 @@ LinkedIn: <a href="https://linkedin.com/in/rafaela-amboni-ghellere">linkedin.com
 
 <h2>My skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,java,php,mysql,react,cs,cpp,firebase,jquery,figma,arduino,unity&theme=dark)](https://skillicons.dev)
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,java,php,mysql,react,cs,cpp,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,unity,firebase,jquery,figma&theme=dark)](https://skillicons.dev)
