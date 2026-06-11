@@ -1,7 +1,7 @@
 <p align="center">
 Information Technology Course / Curso Técnico em Informática - SATC (2024-2025) <br>
 Software Development Internship / Estágio em Desenvolvimento de Software - Agrosys (2026)
-Bachelor in Software Engeneering / Bacharelado em Engenharia de Software - UNESC (2026-2029)
+Bachelor's Degree in Software Engineering / Bacharelado em Engenharia de Software - UNESC (2026-2029)
 </p>
 
 <h2>Contatcs</h2>
