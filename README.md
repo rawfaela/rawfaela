@@ -1,7 +1,8 @@
 <p align="center">
-Information Technology Course / Curso Técnico em Informática - SATC (2024-2025) <br>
-Software Development Internship / Estágio em Desenvolvimento de Software - Agrosys (2026)
-Bachelor's Degree in Software Engineering / Bacharelado em Engenharia de Software - UNESC (2026-2029)
+Information Technology Course / Curso Técnico em Informática - SATC (2024-2026) <br>
+Software Development Internship / Estágio em Desenvolvimento de Software - Agrosys (2026) <br>
+Bachelor's in Software Engineering / Bacharelado em Engenharia de Software - UNESC (2026-2029) <br>
+Bachelor's in Computer Engineering / Bacharelado em Engenharia de Software - UFSC (2026-2031)
 </p>
 
 <h2>Contacts</h2>
@@ -14,4 +15,4 @@ LinkedIn: <a href="https://linkedin.com/in/rafaela-amboni-ghellere">linkedin.com
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,js,java,php,mysql,react,cs,cpp,&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=arduino,unity,firebase,jquery,linux,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,unity,firebase,jquery,linux,figma,vscode&theme=dark)](https://skillicons.dev)
